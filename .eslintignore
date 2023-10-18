@@ -1,0 +1,10 @@
+node_modules
+dist
+.esbuild
+coverage
+jest.config.js
+clientMock.ts
+webpack.config.js
+scripts
+migrations
+seed
